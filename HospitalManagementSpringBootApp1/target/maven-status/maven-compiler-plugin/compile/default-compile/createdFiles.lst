@@ -1,0 +1,7 @@
+com\pack\HospitalManagementSpringBootApp\dao\PhysicianRepository.class
+com\pack\HospitalManagementSpringBootApp\controller\HospitalController.class
+com\pack\HospitalManagementSpringBootApp\model\Patient.class
+com\pack\HospitalManagementSpringBootApp\dao\PatientRepository.class
+com\pack\HospitalManagementSpringBootApp\controller\PhysicianController.class
+com\pack\HospitalManagementSpringBootApp\HospitalManagementSpringBootAppApplication.class
+com\pack\HospitalManagementSpringBootApp\model\Physician.class
